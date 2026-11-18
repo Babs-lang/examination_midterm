@@ -1,0 +1,6 @@
+{
+  "name": "AcadGrant — Student Scholarship Monitoring & Compliance System",
+  "description": "Role-based scholarship monitoring, grade verification, policy compliance evaluation, and renewal decision system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
